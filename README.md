@@ -1,8 +1,8 @@
 <!-- markdownlint-disable -->
 <br />
 <div align="center">
-  <a href="https://github.com/nix-community/kickstart-nix.nvim">
-    <img src="./nvim-nix.svg" alt="kickstart-nix.nvim">
+  <a href="https://github.com/c7gnas/c7gvim">
+    <img src="./nvim-nix.svg" alt="c7gvim">
   </a>
   <!-- TODO: -->
   <!-- <p align="center"> -->
@@ -96,7 +96,7 @@ nix run "github:nix-community/kickstart-nix.nvim"
 
 ## :books: Usage
 
-1. Click on [Use this template](https://github.com/nix-community/kickstart-nix.nvim/generate)
+1. Click on [Use this template](https://github.com/c7gnas/c7gvim/generate)
 to start a repo based on this template. **Do _not_ fork it**.
 1. Add/remove plugins to/from the [Neovim overlay](./nix/neovim-overlay.nix).
 1. Add/remove plugin configs to/from the `nvim/plugin` directory.
